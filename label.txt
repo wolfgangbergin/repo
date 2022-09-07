@@ -1,1 +1,2 @@
-labal1
+label1
+label2
